@@ -5,7 +5,7 @@
 ---
 
 ## 💼 Professional Summary
-Java Backend Developer with 3.7+ years of experience designing scalable microservices-based financial applications. Strong expertise in Spring Boot, Kafka, JWT Security, MySQL optimization, and AWS deployments.
+Java Backend Developer with  5 years of experience designing scalable microservices-based financial applications. Strong expertise in Spring Boot, Kafka, JWT Security, MySQL optimization, and AWS deployments.
 
 ---
 
@@ -19,6 +19,7 @@ Java Backend Developer with 3.7+ years of experience designing scalable microser
 - Hibernate
 - Microservices Architecture
 - REST APIs
+  
 
 ### Messaging
 - Apache Kafka (Event-Driven Architecture)
@@ -70,4 +71,4 @@ Java Backend Developer with 3.7+ years of experience designing scalable microser
 ## 📫 Connect With Me
 📍 Pune, India  
 📧 akashrpawale@gmail.com  
-🔗 LinkedIn: (Add your LinkedIn link)
+
