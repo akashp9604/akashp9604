@@ -1,3 +1,4 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 # 👋 Hi, I'm Akash Pawale
 
 🚀 Java Backend Developer | Microservices | Spring Boot | Kafka | AWS
